@@ -8,8 +8,6 @@ build:
   pre_ci:
     - echo 'true'
     - uname -a
-    - echo 'hello'
-    #- pwd
     
     
   post_ci:
